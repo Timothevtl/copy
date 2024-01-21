@@ -1,0 +1,7 @@
+streamlit
+nltk
+altair<5
+textblob
+scikit-learn
+requests
+tensorflow
